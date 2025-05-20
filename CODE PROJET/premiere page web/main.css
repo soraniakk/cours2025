@@ -1,0 +1,74 @@
+/* style.css */
+
+body{
+  background: #FFC0CB;
+  color: #12CEEB; 
+  font-size: 20px;
+  font-family: "Georgia", "Serif";
+  margin:0;
+}
+
+nav{
+  display:inline;
+  font-size: 1em;
+  font-family: 'Source Sans Pro', sans-serif;
+} 
+
+h1{
+  font-family: 'Exile', sans-serif;
+  color:  #41A3C0; 
+  font-weight: bolder;
+  font-size: 3em;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  color: #D471CB;
+  font-weight: bolder;
+  font-size: 1em;
+}
+
+p{
+  color: #D471CB;
+}
+
+a { 
+  color: #29324B;
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgb(225, 0, 152);
+}
+
+#logo{
+  color: rgb(225, 0, 152);
+  font-size: 35px;
+  font-family: 'Pacifico', cursive;
+}
+
+/* Mis en forme de la baseline */
+#baseline{
+  background-color: #41A3C0;
+  text-align: center;
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#baseline h1 {
+  color: white;
+  font-size: 50px;
+}
+
+#baseline a {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  text-decoration: none;
+}
+.chaton, .codeur{
+  width: 800px;
+}
